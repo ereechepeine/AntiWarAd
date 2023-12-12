@@ -103,11 +103,11 @@ $v_urls = yt_get_embed_urls(
         'UCdubelOloxR3wzwJG9x8YqQ', // Дождь
         'UCUGfDbfRIx51kJGGHIFo8Rw', // Кац
         // 'UC7Elc-kLydl-NAV4g204pDQ', // Популярная политика
-        'UCCROBQj3rdGNc-E_aMpbV_A', // MyGAP
+        // 'UCCROBQj3rdGNc-E_aMpbV_A', // MyGAP
         'UCr1QVPhsNT9cMI8FXAbzlig', // Объектив
-        'UCAg74TJrwfpuCp1Jo3ZHMjA', // Михаил Ходорковский
+        // 'UCAg74TJrwfpuCp1Jo3ZHMjA', // Михаил Ходорковский
         'UC101o-vQ2iOj9vr00JUlyKw', // Варламов
-        'UCBG57608Hukev3d0d-gvLhQ', // Настоящее Время
+        // 'UCBG57608Hukev3d0d-gvLhQ', // Настоящее Время
         // 'UCgpSieplNxXxLXYAzJLLpng', // Майкл Наки
     )
 );
